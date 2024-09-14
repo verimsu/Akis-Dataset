@@ -17,8 +17,16 @@ The dataset is provided in the zip file "akis_dataset_test.zip" which includes t
 
 ## Citation
 If you use this dataset in your research, please cite the following paper:
-
-
+```
+@inproceedings{tasdemir2024automatic,
+  title={Automatic Transcription of Ottoman Documents Using Deep Learning},
+  author={Tasdemir, Esma F Bilgin and Tando{\u{g}}an, Zeynep and Akansu, S Do{\u{g}}an and K{\i}z{\i}l{\i}rmak, F{\i}rat and Sen, M Umut and Akcan, Aysu and Kuru, Mehmet and Yanikoglu, Berrin},
+  booktitle={International Workshop on Document Analysis Systems},
+  pages={422--435},
+  year={2024},
+  organization={Springer}
+}
+```
 
 Feel free to reach out if you have any questions or require further information about the dataset.
 
