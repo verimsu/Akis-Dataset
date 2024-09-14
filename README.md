@@ -1,6 +1,6 @@
 # Akis-Dataset
 
-This repository provides the test dataset used in the paper "Automatic Transcription of Ottoman Documents Using Deep Learning". It contains line segments images of Ottoman documents along with their corresponding transcriptions.
+This repository provides the test dataset used in the paper "Automatic Transcription of Ottoman Documents Using Deep Learning". It contains line segment images of Ottoman documents along with their corresponding transcriptions.
 
 ## Dataset overview
 
